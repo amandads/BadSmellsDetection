@@ -1,4 +1,5 @@
-Bad Smells Detection Repository for Webpage
+## Detecting Bad Smells with Machine Learning Algorithms: an Empirical Study ##
+### Complementary Webpage ###
 
 ### Dataset Download
 
