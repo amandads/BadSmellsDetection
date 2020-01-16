@@ -50,9 +50,9 @@ Bad Smells Detection Repository for Webpage
 *Reference: Object-Oriented Metrics in practice. Michele Lanza, Radu Marinescu. (Book)*
 
 **Long Method**
-- Does the method have many conditional branches? Yes
-- Does the method is excessively large? Yes
-- Does the method use many variables? Yes
+- Does the method have many conditional branches? *Yes*
+- Does the method is excessively large? *Yes*
+- Does the method use many variables? *Yes*
 
 *Reference: Object-Oriented Metrics in practice. Michele Lanza, Radu Marinescu. (Book)*
 
